@@ -28,7 +28,7 @@ export const EXPERIENCE: ExperienceShowcaseListItemProps[] = [
       name: "Master Infotech",
       href: "https://masterinfotech.com/",
     },
-    date: "Winter - 2022",
+    date: "Winter - 2025",
     location: "Remote",
     description:
       "Worked on a team responsible for developing new features and updating old codebases to latest technologies. Learned alot about web development and CI/CD development cycle.",

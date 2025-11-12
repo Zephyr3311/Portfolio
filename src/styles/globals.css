@@ -34,3 +34,8 @@
     @apply min-h-screen bg-background text-foreground;
   }
 }
+
+.header {
+  border-bottom: 1px;
+  background-color: #00000055;
+}
