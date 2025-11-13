@@ -60,14 +60,14 @@ export default function AboutHero() {
             <div className="relative flex w-12 gap-4 overflow-hidden rounded-md">
               <Image
                 className="-z-10 h-full w-full bg-cover bg-no-repeat"
-                alt="Indian flag"
-                src="https://flagcdn.com/us.svg"
+                alt="Japan flag"
+                src="https://flagcdn.com/jp.svg"
                 width={15}
                 height={15}
               />
             </div>
             <span className="text-lg font-medium text-foreground">
-              California, U.S
+              Santa Monica, Japan
             </span>
           </FadeRight>
         </AnimatePresence>
